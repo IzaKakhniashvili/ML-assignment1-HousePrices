@@ -1,0 +1,6 @@
+
+pandas
+dagshub
+mlflow-skinny
+scikit-learn
+numpy
